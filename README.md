@@ -19,3 +19,11 @@ Scott Estrada	- Developer - scott-estrada-developer.jpg
 Barbara Ramos - Graphic Designer - barbara-ramos-graphic-designer.jpg
 E ricordiamoci che console.log() è nostro amico!
 Buon lavoro!
+
+soluzione
+
+1. creo un array di oggetti
+2.stampo in console le informazioni dell'array
+3.creo un elemento div nel dom
+4.lo richiamo tramite id
+5.mostro a schermo le informazioni dell'array
