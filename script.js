@@ -31,7 +31,9 @@ const our_team = [
     },
 ]
 
+let show_array = document.getElementById('show_arr')
+
 for (let i = 0; i < our_team.length; i++) {
 
-    console.log(our_team[i].nome, our_team[i].ruolo, our_team[i].foto)
+    show_array.innerHTML += `${our_team[i].nome}, ${our_team[i].ruolo}, ${our_team[i].foto}<br>`
 }
